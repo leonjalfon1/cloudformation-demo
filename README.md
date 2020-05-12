@@ -5,7 +5,7 @@
 
 # ECS Example with nested stacks
 
-https://github.com/aws-samples/ecs-refarch-cloudformation
+From: https://github.com/aws-samples/ecs-refarch-cloudformation
 
 You can launch this CloudFormation stack in your account:
 
