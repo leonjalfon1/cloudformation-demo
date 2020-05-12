@@ -1,4 +1,4 @@
-# Cloudformation Stack that creates (demo.json):
+# EC2 Example (demo.json) that create stack with:
 
  - EC2 Instance
  - Security Group
