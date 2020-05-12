@@ -7,8 +7,6 @@
 
 From: https://github.com/aws-samples/ecs-refarch-cloudformation
 
-You can launch this CloudFormation stack in your account:
-
 | AWS Region | Short name | | 
 | -- | -- | -- |
 | US East (Ohio) | us-east-2 | [![cloudformation-launch-button](images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/new?stackName=Production&templateURL=https://s3.amazonaws.com/ecs-refarch-cloudformation/master.yaml) |
